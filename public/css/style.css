@@ -1,18 +1,9 @@
 
 body {
-	font-family: 'Roboto', sans-serif;
+	
 	background: #e16c25;
 }
 
-.site {
-	display: flex;
-	min-height: 100vh;
-	flex-direction: column;
-}
-
-.content {
-	flex: 1;
-}
 
 h1 {
 	font-family: 'Baloo', cursive;
@@ -34,13 +25,11 @@ footer {
 	text-align: right;
 	background: #fff;
 	padding: 30px;
-	-webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
-	-moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
-	box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
 }
 
 .btn {
-	margin: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 form {
@@ -52,11 +41,11 @@ a {
 	font-size: 20px;
 }
 
-#bestFriendModal {
+#FriendModal {
 	text-align: center;
 }
 
-#bestFriendPhoto {
+#FriendPhoto {
 	max-width: 100%;
 	height: auto;
 }
@@ -67,4 +56,16 @@ span {
 	color: #777;
 	font-size: 20px;
 
+}
+
+.fa {
+	color: #e16c25;
+}
+
+.glyphicon {
+	color: white;
+}
+
+img {
+	width: 567px;
 }
