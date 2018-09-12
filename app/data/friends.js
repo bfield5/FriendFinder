@@ -1,7 +1,7 @@
 var friends = [
     {
-    "name": "Ahmed",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    "name": "Leo Lions",
+    "photo": "./images/Lion-M.jpg",
     "scores": [
     "5",
     "1",
@@ -16,8 +16,8 @@ var friends = [
     ]
     },
     {
-    "name": "Jacob Deming",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "name": "F-en Merica",
+    "photo": "./Bald-Eagle-M.jpg",
     "scores": [
     "4",
     "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
     "name": "Jeremiah Scanlon",
-    "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    "photo": "./images/Walrus-M.jpg",
     "scores": [
     "5",
     "2",
@@ -48,8 +48,8 @@ var friends = [
     ]
     },
     {
-    "name": "Louis T. Delia",
-    "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    "name": "Teddy T. Roosevelt",
+    "photo": "./images/Emperor-Tamarin-M.jpg",
     "scores": [
     "3",
     "3",
@@ -64,8 +64,8 @@ var friends = [
     ]
     },
     {
-    "name": "Lou Ritter",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    "name": "Bailey Codwell",
+    "photo": "./images/Maltese-Dog-M.jpg",
     "scores": [
     "4",
     "3",
@@ -80,8 +80,8 @@ var friends = [
     ]
     },
     {
-    "name": "Jordan Biason",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    "name": "Evangeline Lilly",
+    "photo": "./images/Northern-Giraffe-Giraffa-F.jpg",
     "scores": [
     "4",
     "4",
@@ -96,8 +96,8 @@ var friends = [
     ]
     },
     {
-    "name": "TOm",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/82/LutraCanadensis_fullres.jpg",
+    "name": "Rachel McAdams",
+    "photo": "./images/Golden-Snub-nosed-Monkey-F.jpg",
     "scores": [
     "1",
     "1",
@@ -112,8 +112,8 @@ var friends = [
     ]
     },
     {
-    "name": "Jim",
-    "photo": "no",
+    "name": "Eva Mendes",
+    "photo": "./images/South-American-Tapir-F.jpg",
     "scores": [
     "1",
     "2",
@@ -128,8 +128,8 @@ var friends = [
     ]
     },
     {
-    "name": "Jim",
-    "photo": "no",
+    "name": "Emilia Clarke",
+    "photo": "..White-tailed-Deer-F.jpg",
     "scores": [
     "1",
     "2",
@@ -144,8 +144,8 @@ var friends = [
     ]
     },
     {
-    "name": "Jim",
-    "photo": "no",
+    "name": "Mila Kunis",
+    "photo": "./images/British-Shorthair-Cat-F.jpg",
     "scores": [
     "1",
     "2",
