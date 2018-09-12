@@ -14,7 +14,7 @@ app.use(bodyParser.text());
 
 
 // API and HTML routes
-require("./app/routing/apiRoutes.js")(app);
+require("app/routing/apiRoutes.js")(app);
 require("./app/routing/htmlRoutes.js")(app);
 
 
