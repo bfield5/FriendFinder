@@ -1,7 +1,7 @@
 var friends = [
     {
     "name": "Leo Lions",
-    "photo": "./images/Lion-M.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Lion-Panthera-Leo.jpg",
     "scores": [
     "5",
     "1",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
     "name": "F-en Merica",
-    "photo": "./Bald-Eagle-M.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Bald-Eagle-Haliaeetus-Leucocephalus.jpg",
     "scores": [
     "4",
     "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
     "name": "Jeremiah Scanlon",
-    "photo": "./images/Walrus-M.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Walrus-Odobenus-Rosmarus.jpg",
     "scores": [
     "5",
     "2",
@@ -49,23 +49,23 @@ var friends = [
     },
     {
     "name": "Teddy T. Roosevelt",
-    "photo": "./images/Emperor-Tamarin-M.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Emperor-Tamarin-Saguinus-Imperator.jpg",
     "scores": [
     "3",
     "3",
-    "4",
+    "3",
     "2",
-    "2",
+    "3",
     "1",
     "3",
     "2",
-    "2",
+    "3",
     "3"
     ]
     },
     {
     "name": "Bailey Codwell",
-    "photo": "./images/Maltese-Dog-M.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Maltese-Dog-Canis-Lupus-Familiaris.jpg",
     "scores": [
     "4",
     "3",
@@ -81,39 +81,39 @@ var friends = [
     },
     {
     "name": "Evangeline Lilly",
-    "photo": "./images/Northern-Giraffe-Giraffa-F.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Northern-Giraffe-Giraffa-Camelopardalis.jpg",
     "scores": [
     "4",
     "4",
     "2",
     "3",
-    "2",
-    "2",
+    "4",
+    "4",
     "3",
-    "2",
+    "4",
     "4",
     "5"
     ]
     },
     {
     "name": "Rachel McAdams",
-    "photo": "./images/Golden-Snub-nosed-Monkey-F.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Golden-Snub-nosed-Monkey-Rhinopithecus-Roxellana.jpg",
     "scores": [
     "1",
     "1",
     "1",
     "1",
     "1",
-    "1",
-    "1",
-    "1",
     "2",
-    "1"
+    "2",
+    "2",
+    "2",
+    "2"
     ]
     },
     {
     "name": "Eva Mendes",
-    "photo": "./images/South-American-Tapir-F.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/South-American-Tapir-Calf-Tapirus-Terrestris.jpg",
     "scores": [
     "1",
     "2",
@@ -129,34 +129,34 @@ var friends = [
     },
     {
     "name": "Emilia Clarke",
-    "photo": "..White-tailed-Deer-F.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/White-tailed-Deer-Odocoileus-Virginianus.jpg",
     "scores": [
-    "1",
+    "5",
     "2",
+    "5",
     "1",
+    "5",
     "1",
+    "5",
     "1",
-    "1",
-    "2",
-    "1",
-    "2",
-    "1"
+    "5",
+    "5"
     ]
     },
     {
     "name": "Mila Kunis",
-    "photo": "./images/British-Shorthair-Cat-F.jpg",
+    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/British-Shorthair-Cat-Felis-Catus.jpg",
     "scores": [
-    "1",
-    "2",
-    "1",
-    "1",
-    "1",
-    "1",
-    "2",
-    "1",
-    "2",
-    "1"
+    "4",
+    "3",
+    "4",
+    "3",
+    "3",
+    "4",
+    "3",
+    "4",
+    "3",
+    "4"
     ]
     }
 ];
