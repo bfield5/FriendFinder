@@ -6,7 +6,7 @@ var app = express();
 var PORT = process.env.PORT || 3000;
 
 // css
-app.use(express.static(__dirname + "/app/css"));
+app.use(express.static("public"));
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -14,8 +14,8 @@ app.use(bodyParser.text());
 
 
 // API and HTML routes
-require("/app/routing/apiRoutes")(app);
-require("/app/routing/htmlRoutes")(app);
+require("./routing/apiRoutes")(app);
+require("./routing/htmlRoutes")(app);
 
 
 
