@@ -17,7 +17,7 @@ var friends = [
     },
     {
     "name": "F-en Merica",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Bald-Eagle-Haliaeetus-Leucocephalus.jpg",
+    "photo": "./images/Bald-Eagle-M.jpeg",
     "scores": [
     "4",
     "2",
