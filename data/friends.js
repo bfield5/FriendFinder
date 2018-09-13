@@ -1,7 +1,7 @@
 var friends = [
     {
-    "name": "Leo Lions",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Lion-Panthera-Leo.jpg",
+    "name": "Leo Lion",
+    "photo": "./images/Lion-M.jpg",
     "scores": [
     "5",
     "1",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
     "name": "Jeremiah Scanlon",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Walrus-Odobenus-Rosmarus.jpg",
+    "photo": "./images/Walrus-M.jpg",
     "scores": [
     "5",
     "2",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
     "name": "Teddy T. Roosevelt",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Emperor-Tamarin-Saguinus-Imperator.jpg",
+    "photo": "./images/Emperor-Tamarin-M.jpg",
     "scores": [
     "3",
     "3",
@@ -64,8 +64,8 @@ var friends = [
     ]
     },
     {
-    "name": "Bailey Codwell",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Maltese-Dog-Canis-Lupus-Familiaris.jpg",
+    "name": "Bailey Colwell",
+    "photo": "./images/Maltese-Dog-M.jpg",
     "scores": [
     "4",
     "3",
@@ -81,7 +81,7 @@ var friends = [
     },
     {
     "name": "Evangeline Lilly",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Northern-Giraffe-Giraffa-Camelopardalis.jpg",
+    "photo": "./images/Northern-Giraffe-Giraffa-F.jpg",
     "scores": [
     "4",
     "4",
@@ -97,7 +97,7 @@ var friends = [
     },
     {
     "name": "Rachel McAdams",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/Golden-Snub-nosed-Monkey-Rhinopithecus-Roxellana.jpg",
+    "photo": "./images/Golden-Snub-nosed-Monkey-F.jpg",
     "scores": [
     "1",
     "1",
@@ -113,7 +113,7 @@ var friends = [
     },
     {
     "name": "Eva Mendes",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/South-American-Tapir-Calf-Tapirus-Terrestris.jpg",
+    "photo": "./images/South-American-Tapir-F.jpg",
     "scores": [
     "1",
     "2",
@@ -129,7 +129,7 @@ var friends = [
     },
     {
     "name": "Emilia Clarke",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/White-tailed-Deer-Odocoileus-Virginianus.jpg",
+    "photo": "./images/White-tailed-Deer-F.jpg",
     "scores": [
     "5",
     "2",
@@ -145,7 +145,7 @@ var friends = [
     },
     {
     "name": "Mila Kunis",
-    "photo": "https://www.zooportraits.com/wp-content/uploads/2018/05/British-Shorthair-Cat-Felis-Catus.jpg",
+    "photo": "./images/British-Shorthair-Cat-F.jpg",
     "scores": [
     "4",
     "3",

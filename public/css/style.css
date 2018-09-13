@@ -27,9 +27,12 @@ footer {
 	padding: 30px;
 }
 
-.btn {
+
+
+.btn{
 	margin-top: 30px;
 	margin-bottom: 30px;
+	
 }
 
 form {
@@ -38,7 +41,8 @@ form {
 
 a {
 	color: #e16c25;
-	font-size: 20px;
+	width: 175px;
+	
 }
 
 #FriendModal {
@@ -54,7 +58,8 @@ span {
 	margin-left: 10px;
 	margin-right: 10px;
 	color: #777;
-	font-size: 20px;
+	
+	
 
 }
 
@@ -69,3 +74,15 @@ span {
 img {
 	width: 567px;
 }
+
+hr {
+	border-color: #e16c25;
+}
+
+button {
+	background-color: #e16c25;
+}
+
+
+
+
